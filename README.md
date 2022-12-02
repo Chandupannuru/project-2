@@ -23,15 +23,15 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (171)](https://user-images.githubusercontent.com/117725791/204980082-b4e95475-e7bb-498b-aafd-78c1cb293cae.png)
-![Screenshot (172)](https://user-images.githubusercontent.com/117725791/204980098-6f652e25-c375-4726-9de3-dc3beb8f6411.png)
-![Screenshot (173)](https://user-images.githubusercontent.com/117725791/204980118-f0bd293e-a8b5-468a-8e47-35b048dbe301.png)
-![Screenshot (174)](https://user-images.githubusercontent.com/117725791/204980221-c3a7aa71-e725-4c33-86e1-4607d97cdd8a.png)
-![Screenshot (175)](https://user-images.githubusercontent.com/117725791/204980240-ce4385a7-bf54-4007-a7b7-7eec4301ba31.png)
-![Screenshot (176)](https://user-images.githubusercontent.com/117725791/204980262-67f04707-32fb-41eb-bed0-33268e1256b1.png)
-![Screenshot (177)](https://user-images.githubusercontent.com/117725791/204980295-bda5413b-f07c-4e48-8464-aba4a0f1a637.png)
-![Screenshot (178)](https://user-images.githubusercontent.com/117725791/204980309-de117871-a34f-4aaf-9ac3-73948555a958.png)
-![Screenshot (179)](https://user-images.githubusercontent.com/117725791/204980336-4f544bd2-7345-4320-89d5-459efa946ced.png)
+
+![Screenshot (310)](https://user-images.githubusercontent.com/117725791/205271229-d9263eea-771f-498e-bf58-b2af4e8c3cbb.png)
+![Screenshot (311)](https://user-images.githubusercontent.com/117725791/205271246-788d58c7-ae68-48f2-8fdf-7fdbdaadf913.png)
+![Screenshot (312)](https://user-images.githubusercontent.com/117725791/205271258-5d5a698f-b8fb-4ae7-b41c-dc4ad8d48b4c.png)
+![Screenshot (313)](https://user-images.githubusercontent.com/117725791/205271269-dd43a530-bd66-4fe4-becc-c53f9b17abfe.png)
+![Screenshot (314)](https://user-images.githubusercontent.com/117725791/205271275-1d3b3b71-0a17-411d-b32a-4276c405e26e.png)
+![Screenshot (315)](https://user-images.githubusercontent.com/117725791/205271281-98cef093-9bf7-4683-ba66-b763f48aae7d.png)
+![Screenshot (316)](https://user-images.githubusercontent.com/117725791/205271291-05e01a06-a854-4ec6-aad6-0b362ee41fe3.png)
+![Screenshot (309)](https://user-images.githubusercontent.com/117725791/205271297-73484705-5c9b-4d72-a1b9-d8ab3db22737.png)
 
 ### About Us -
 
