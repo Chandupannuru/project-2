@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://victorious-stone-077a8bd00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/c_6toOLZESM
 
 ## Azure technologies used for Project
 
