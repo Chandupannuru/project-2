@@ -1,8 +1,8 @@
 # # ✨  Fitment  ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for fitment related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based fitment application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://victorious-stone-077a8bd00.2.azurestaticapps.net/
@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -20,10 +20,13 @@ This is a web based application developed for health related based website in in
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, services and furniture related information etc.
 - User can know about furniture,chairs and home interior related information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement
+- We provided for healthbot for more information and feedback.
 
-## Screenshots
+## Screenshots -
 
+![Screenshot (1132)](https://user-images.githubusercontent.com/117725791/209946305-d41e14d8-c0f3-4219-8c40-43cb7b37d275.png)
+![Screenshot (1133)](https://user-images.githubusercontent.com/117725791/209946323-f0c4a68d-5709-47ac-8909-581328930b73.png)
 ![Screenshot (310)](https://user-images.githubusercontent.com/117725791/205271229-d9263eea-771f-498e-bf58-b2af4e8c3cbb.png)
 ![Screenshot (311)](https://user-images.githubusercontent.com/117725791/205271246-788d58c7-ae68-48f2-8fdf-7fdbdaadf913.png)
 ![Screenshot (312)](https://user-images.githubusercontent.com/117725791/205271258-5d5a698f-b8fb-4ae7-b41c-dc4ad8d48b4c.png)
@@ -57,7 +60,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (192)](https://user-images.githubusercontent.com/117725791/204980828-9fd08a39-7bae-43a2-89c8-6c3525e3e849.png)
 
 
-### chat bot
+### health bot -
 
 ![Screenshot (193)](https://user-images.githubusercontent.com/117725791/204980859-eed561ea-e9fb-4579-a64e-eb3d6d54d9b3.png)
 
@@ -68,3 +71,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
